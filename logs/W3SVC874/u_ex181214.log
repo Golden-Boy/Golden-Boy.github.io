@@ -1,0 +1,59 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 00:09:24
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 00:09:23 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 40.77.167.63 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.farbeyondaverage.com 304 0 0 195 365 7187
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 03:37:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 03:37:58 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 54.36.148.162 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - - farbeyondaverage.com 200 0 0 1451 171 6000
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 04:42:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 04:42:10 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 52.165.150.117 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:59.0)+Gecko/20100101+Firefox/59.0 - - farbeyondaverage.com 200 0 64 0 255 10062
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 05:46:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 05:46:29 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /robots.txt - 80 - 93.158.166.132 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - www.farbeyondaverage.com 404 0 2 1347 207 3281
+2018-12-14 05:46:32 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 93.158.166.132 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - www.farbeyondaverage.com 200 0 0 1451 289 1421
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 06:56:50
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 06:56:50 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 176.31.180.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_3)+AppleWebKit/602.4.8+(KHTML,+like+Gecko)+Version/10.0.3+Safari/602.4.8 - - farbeyondaverage.com 200 0 64 0 408 8046
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 10:31:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 10:31:15 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 81.17.27.134 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:39.0)+Gecko/20100101+Firefox/39.0 - - farbeyondaverage.com 200 0 64 0 363 9374
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 15:53:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 15:53:04 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 195.176.3.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 - - farbeyondaverage.com 200 0 64 0 393 11156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 16:31:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 16:31:15 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - - farbeyondaverage.com 200 0 0 1451 320 8234
+2018-12-14 16:31:15 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /css/style.css - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://farbeyondaverage.com/ farbeyondaverage.com 200 0 0 1785 297 109
+2018-12-14 16:31:15 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /css/bootstrap-light.css - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://farbeyondaverage.com/ farbeyondaverage.com 200 0 0 2572 307 93
+2018-12-14 16:31:15 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /js/jquery.countdown.js - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://farbeyondaverage.com/ farbeyondaverage.com 200 0 0 12168 291 109
+2018-12-14 16:31:15 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /js/jquery.plugin.js - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://farbeyondaverage.com/ farbeyondaverage.com 200 0 0 4861 288 109
+2018-12-14 16:31:16 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /images/paperplane.png - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://farbeyondaverage.com/ farbeyondaverage.com 200 0 0 106889 290 218
+2018-12-14 16:31:16 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /images/bg.jpg - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - http://farbeyondaverage.com/css/style.css farbeyondaverage.com 200 0 0 310047 295 359
+2018-12-14 16:31:16 W3SVC874 A2NWVPWEB088 107.180.46.214 GET /favicon.ico - 80 - 99.118.21.109 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - - farbeyondaverage.com 404 0 2 1347 301 140
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 21:18:54
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 21:18:54 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 192.42.116.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64;+rv:50.0)+Gecko/20100101+Firefox/50.0 - - farbeyondaverage.com 200 0 64 0 363 9843
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-14 23:52:41
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-14 23:52:41 W3SVC874 A2NWVPWEB088 107.180.46.214 HEAD / - 80 - 47.149.73.109 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.28)+Gecko/20120306+Firefox/3.6.28 - farbeyondaverage.com farbeyondaverage.com 200 0 0 278 223 2187
+2018-12-14 23:52:41 W3SVC874 A2NWVPWEB088 107.180.46.214 HEAD / - 80 - 47.149.73.109 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.28)+Gecko/20120306+Firefox/3.6.28 - farbeyondaverage.com farbeyondaverage.com 200 0 64 0 223 10468

@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-15 08:59:53
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2018-12-15 08:59:53 W3SVC874 A2NWVPWEB088 107.180.46.214 GET / - 80 - 185.227.68.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - - farbeyondaverage.com 200 0 64 0 405 9953
